@@ -5,8 +5,8 @@
         "title": "Understanding the Basics of IoT",
         "author_img": "https://i.ibb.co.com/6DhDsmQ/boy1.png",
         "author_name": "John Doe",
-        "date": "2024-10-28",
-        "read_time": "5 min",
+        "date": "Oct 28 (Today)",
+        "read_time": 5,
         "tags": ["IoT", "Technology", "Basics"]
     },
     {
@@ -15,8 +15,8 @@
         "title": "RFID Applications in Modern Industry",
         "author_img": "https://i.ibb.co.com/7JP94Dd/boy2.jpg",
         "author_name": "Jane Smith",
-        "date": "2024-10-15",
-        "read_time": "7 min",
+        "date": "Oct 15 (13 Days ago)",
+        "read_time": 7,
         "tags": ["RFID", "Industry", "Applications"]
     },
     {
@@ -25,8 +25,8 @@
         "title": "The Future of Cellular Technology",
         "author_img": "https://i.ibb.co.com/17Rhs3w/girl1.jpg",
         "author_name": "Michael Lee",
-        "date": "2024-09-20",
-        "read_time": "6 min",
+        "date": "Sep 20 (38 Days ago)",
+        "read_time": 6,
         "tags": ["Cellular", "Technology", "Future"]
     },
     {
@@ -35,8 +35,8 @@
         "title": "NFC: Revolutionizing Payment Systems",
         "author_img": "https://i.ibb.co.com/r32PJQN/girl2.jpg",
         "author_name": "Emily Clark",
-        "date": "2024-09-05",
-        "read_time": "4 min",
+        "date": "Sep 5 (53 Days ago)",
+        "read_time": 4,
         "tags": ["NFC", "Payments", "Finance"]
     }
 ]
